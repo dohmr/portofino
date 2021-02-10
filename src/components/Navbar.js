@@ -17,9 +17,9 @@ const Navbar = () => {
                             <li className="nav-item">
                                 <Link smooth={true} to="home" offset={-10} className="nav-link" aria-current="page" href="#">Home</Link>
                             </li>
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <Link smooth={true} to="about" offset={-50} className="nav-link" href="#">About Me</Link>
-                            </li>
+                            </li> */}
                             <li className="nav-item">
                                 <Link smooth={true} to="services" offset={-50} className="nav-link" href="#">Services</Link>
                             </li>
