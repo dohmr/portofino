@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portofino/static/css/main.1c35e4bb.chunk.css",
-    "main.js": "/portofino/static/js/main.42ab658c.chunk.js",
-    "main.js.map": "/portofino/static/js/main.42ab658c.chunk.js.map",
-    "runtime-main.js": "/portofino/static/js/runtime-main.f18ef55b.js",
-    "runtime-main.js.map": "/portofino/static/js/runtime-main.f18ef55b.js.map",
+    "main.css": "/portofino/static/css/main.2b008ff2.chunk.css",
+    "main.js": "/portofino/static/js/main.5f32f75f.chunk.js",
+    "main.js.map": "/portofino/static/js/main.5f32f75f.chunk.js.map",
+    "runtime-main.js": "/portofino/static/js/runtime-main.60568711.js",
+    "runtime-main.js.map": "/portofino/static/js/runtime-main.60568711.js.map",
     "static/css/2.150d169a.chunk.css": "/portofino/static/css/2.150d169a.chunk.css",
-    "static/js/2.17bf1877.chunk.js": "/portofino/static/js/2.17bf1877.chunk.js",
-    "static/js/2.17bf1877.chunk.js.map": "/portofino/static/js/2.17bf1877.chunk.js.map",
-    "static/js/3.58a88110.chunk.js": "/portofino/static/js/3.58a88110.chunk.js",
-    "static/js/3.58a88110.chunk.js.map": "/portofino/static/js/3.58a88110.chunk.js.map",
+    "static/js/2.8a8ff924.chunk.js": "/portofino/static/js/2.8a8ff924.chunk.js",
+    "static/js/2.8a8ff924.chunk.js.map": "/portofino/static/js/2.8a8ff924.chunk.js.map",
+    "static/js/3.855c5e97.chunk.js": "/portofino/static/js/3.855c5e97.chunk.js",
+    "static/js/3.855c5e97.chunk.js.map": "/portofino/static/js/3.855c5e97.chunk.js.map",
     "index.html": "/portofino/index.html",
     "static/css/2.150d169a.chunk.css.map": "/portofino/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1c35e4bb.chunk.css.map": "/portofino/static/css/main.1c35e4bb.chunk.css.map",
-    "static/js/2.17bf1877.chunk.js.LICENSE.txt": "/portofino/static/js/2.17bf1877.chunk.js.LICENSE.txt",
+    "static/css/main.2b008ff2.chunk.css.map": "/portofino/static/css/main.2b008ff2.chunk.css.map",
+    "static/js/2.8a8ff924.chunk.js.LICENSE.txt": "/portofino/static/js/2.8a8ff924.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portofino/static/media/background.60c1d2ae.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f18ef55b.js",
+    "static/js/runtime-main.60568711.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.17bf1877.chunk.js",
-    "static/css/main.1c35e4bb.chunk.css",
-    "static/js/main.42ab658c.chunk.js"
+    "static/js/2.8a8ff924.chunk.js",
+    "static/css/main.2b008ff2.chunk.css",
+    "static/js/main.5f32f75f.chunk.js"
   ]
 }
