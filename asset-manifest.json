@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/portofino/static/css/main.2b008ff2.chunk.css",
-    "main.js": "/portofino/static/js/main.5f32f75f.chunk.js",
-    "main.js.map": "/portofino/static/js/main.5f32f75f.chunk.js.map",
-    "runtime-main.js": "/portofino/static/js/runtime-main.60568711.js",
-    "runtime-main.js.map": "/portofino/static/js/runtime-main.60568711.js.map",
-    "static/css/2.150d169a.chunk.css": "/portofino/static/css/2.150d169a.chunk.css",
-    "static/js/2.8a8ff924.chunk.js": "/portofino/static/js/2.8a8ff924.chunk.js",
-    "static/js/2.8a8ff924.chunk.js.map": "/portofino/static/js/2.8a8ff924.chunk.js.map",
-    "static/js/3.855c5e97.chunk.js": "/portofino/static/js/3.855c5e97.chunk.js",
-    "static/js/3.855c5e97.chunk.js.map": "/portofino/static/js/3.855c5e97.chunk.js.map",
+    "main.css": "/portofino/static/css/main.54b298ba.chunk.css",
+    "main.js": "/portofino/static/js/main.a1a6276a.chunk.js",
+    "main.js.map": "/portofino/static/js/main.a1a6276a.chunk.js.map",
+    "runtime-main.js": "/portofino/static/js/runtime-main.ed2464c7.js",
+    "runtime-main.js.map": "/portofino/static/js/runtime-main.ed2464c7.js.map",
+    "static/css/2.a894a7ba.chunk.css": "/portofino/static/css/2.a894a7ba.chunk.css",
+    "static/js/2.0868c3aa.chunk.js": "/portofino/static/js/2.0868c3aa.chunk.js",
+    "static/js/2.0868c3aa.chunk.js.map": "/portofino/static/js/2.0868c3aa.chunk.js.map",
+    "static/js/3.a9735a5e.chunk.js": "/portofino/static/js/3.a9735a5e.chunk.js",
+    "static/js/3.a9735a5e.chunk.js.map": "/portofino/static/js/3.a9735a5e.chunk.js.map",
     "index.html": "/portofino/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/portofino/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.2b008ff2.chunk.css.map": "/portofino/static/css/main.2b008ff2.chunk.css.map",
-    "static/js/2.8a8ff924.chunk.js.LICENSE.txt": "/portofino/static/js/2.8a8ff924.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/portofino/static/media/background.60c1d2ae.jpeg"
+    "static/css/2.a894a7ba.chunk.css.map": "/portofino/static/css/2.a894a7ba.chunk.css.map",
+    "static/css/main.54b298ba.chunk.css.map": "/portofino/static/css/main.54b298ba.chunk.css.map",
+    "static/js/2.0868c3aa.chunk.js.LICENSE.txt": "/portofino/static/js/2.0868c3aa.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portofino/static/media/background.60c1d2ae.jpeg",
+    "static/media/gk-games.a788eb1a.png": "/portofino/static/media/gk-games.a788eb1a.png",
+    "static/media/gk-land.4763d4ad.png": "/portofino/static/media/gk-land.4763d4ad.png",
+    "static/media/og-portfolio.c15d4e04.png": "/portofino/static/media/og-portfolio.c15d4e04.png",
+    "static/media/up2u.d2a6b83c.png": "/portofino/static/media/up2u.d2a6b83c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.60568711.js",
-    "static/css/2.150d169a.chunk.css",
-    "static/js/2.8a8ff924.chunk.js",
-    "static/css/main.2b008ff2.chunk.css",
-    "static/js/main.5f32f75f.chunk.js"
+    "static/js/runtime-main.ed2464c7.js",
+    "static/css/2.a894a7ba.chunk.css",
+    "static/js/2.0868c3aa.chunk.js",
+    "static/css/main.54b298ba.chunk.css",
+    "static/js/main.a1a6276a.chunk.js"
   ]
 }
