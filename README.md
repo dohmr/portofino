@@ -1,4 +1,4 @@
-# Self-Portrait, FINAL
+# Self-Portrait, underConstruction
 
 Exercising my knowledge, and expanding my skillset with React.js
 
